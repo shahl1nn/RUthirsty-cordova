@@ -2,7 +2,7 @@
 set -e
 #!/bin/bash
 
-# 设置环境变量
+# 设置环境变量 2月7日NCE光使用，勿动
 export ANTHROPIC_AUTH_TOKEN=sk-N0ZIK73mKLdCfn99B1XkYM7p7VpLYhicLGMHZF5xirO7Vgvu
 export ANTHROPIC_BASE_URL=https://apiHK.Ai
 # 备选API线路（去掉下面两行注释生效）
