@@ -3,8 +3,8 @@ set -e
 #!/bin/bash
 
 # 设置环境变量 2月7日NCE光使用，勿动
-export ANTHROPIC_AUTH_TOKEN=sk-N0ZIK73mKLdCfn99B1XkYM7p7VpLYhicLGMHZF5xirO7Vgvu
-export ANTHROPIC_BASE_URL=https://apiHK.Ai
+export ANTHROPIC_AUTH_TOKEN=sk-OTpmRgI7jPLkYXuY4f6064280641421bB8E58bAb0dB959Ba
+export ANTHROPIC_BASE_URL=https://new.aicode.us.com
 # 备选API线路（去掉下面两行注释生效）
 # export ANTHROPIC_AUTH_TOKEN=sk-BnACKGNS5fruSd9Mmm2cH4MuLXGR27sB0md9KsYN6fvR4CYi
 # export ANTHROPIC_BASE_URL=https://xinghuapi.com
